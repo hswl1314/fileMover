@@ -1,0 +1,11 @@
+Package: fileMover
+Title: Tools for Moving and Organizing Files
+Version: 0.1.1
+Authors@R: 
+    person("Wanli", "Liang", email = "lwlisme2022@163.com", role = c("aut", "cre"))
+Description: Provides functions for organizing files into folders based on patterns
+    and moving files from subdirectories to the current directory.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
