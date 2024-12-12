@@ -1,11 +1,9 @@
-# Install package
+# Install and load package
 ```r
 devtools::install_github("hswl1314/fileMover")
-```
-# Load package
-```r
 library(fileMover)
 ```
+
 # Example 1: Move files by patterns
 ```r
 patterns_list <- list(
