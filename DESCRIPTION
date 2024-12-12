@@ -1,6 +1,6 @@
 Package: fileMover
 Title: Tools for Moving and Organizing Files
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person("Dr.", "Liang", email = "lwlisme2022@163.com", role = c("aut", "cre"))
 Description: Provides functions for organizing files into folders based on patterns
