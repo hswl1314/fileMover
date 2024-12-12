@@ -9,11 +9,11 @@ library(fileMover)
 # Example 1: Move files by patterns
 ```r
 patterns_list <- list(
-"txt",
-"csv",
-c("jpg", "png")
+"txt",#keyword
+"csv",#keyword
+c("jpg", "png")#keyword
 )
-folder_names <- c("text", "data", "images")
+folder_names <- c("text", "data", "images")#TargetFolders
 move_files_by_groups(patterns_list, folder_names)
 ```
 
