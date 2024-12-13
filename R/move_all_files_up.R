@@ -55,3 +55,4 @@ move_all_files_up <- function(target_folders = NULL) {
   message("\nAll files moved successfully")
   invisible()
 }
+
